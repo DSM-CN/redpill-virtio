@@ -1,7 +1,7 @@
 # VirtIO for RedPill
 
 This repository contains a packaged version of the [VirtIO driver set](https://www.linux-kvm.org/page/Virtio) in a form
-of an extension for RedPill-powered systems. To learn more about RedPill extensions see [`redpill-load`](https://github.com/RedPill-TTG/redpill-load).
+of an extension for RedPill-powered systems. To learn more about RedPill extensions see [`redpill-load`](https://ghproxy.com/https://github.com/DSM-CN/RedPill-TTG-redpill-load).
 
 ## Purpose
 This extension adds support for fast para-virtualized devices in hypervisors supporting VirtIO. The following features 
@@ -26,7 +26,7 @@ The following hypervisors are known to support VirtIO:
 
 ## Installation
 This module comes preinstalled/bundled with `redpill-load`. If you're a developer, and you're creating a custom fork you
-should use index URL of `https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/rpext-index.json`
+should use index URL of `https://ghproxy.com/https://raw.githubusercontent.com/DSM-CN/redpill-virtio/master/rpext-index.json`
 
 
 ## Usage
